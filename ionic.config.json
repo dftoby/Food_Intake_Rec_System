@@ -1,0 +1,7 @@
+{
+  "name": "Food_Rec_Intake_System",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
